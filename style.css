@@ -1,0 +1,12 @@
+.div-content {
+  font-size: 30px;
+  color: red;
+  background-color: green;
+  border: 1px solid #000000;
+  text-align: center;
+  display: block !important;
+}
+
+.thongBao {
+  display: block !important;
+}
